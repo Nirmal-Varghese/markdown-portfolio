@@ -1,2 +1,1 @@
-![Image](https://static.zerochan.net/Uzumaki.Naruto.full.977825.jpg)
-**Naruto**
+![Image](https://wallpaperaccess.com/full/3209465.jpg)
