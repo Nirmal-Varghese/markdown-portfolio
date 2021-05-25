@@ -1,5 +1,6 @@
 <ul>
-  * <li> Coffee </li>
-  * <li> Music </li>
-  * <li> Rain </li>
+ 
+  I love: <li> Coffee </li>
+          <li> Music </li>
+          <li> Rain </li>
  </ul>
